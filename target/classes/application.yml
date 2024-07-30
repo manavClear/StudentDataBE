@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: StudentDataBE
+  data:
+    mongodb:
+      uri: mongodb+srv://manavs2110:manavs2110@cluster0.k6kjx30.mongodb.net/StudentData?retryWrites=true&w=majority&appName=Cluster0
+
+
+server:
+  port: 9090
